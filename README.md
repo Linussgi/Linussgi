@@ -4,4 +4,4 @@ Linussgi/Linussgi is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I mostly work on projects related to engineering and data applications, ranging from web apps to reaction engineering frameworks
+I mostly work on projects related to engineering and data applications, ranging from web apps to reaction engineering frameworks to stochastic simulations
